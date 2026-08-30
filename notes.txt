@@ -1,1 +1,2 @@
 This is my first version of the notes.
+Git helps track changes in files.
