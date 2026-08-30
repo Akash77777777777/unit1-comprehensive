@@ -1,2 +1,4 @@
 This is my first version of the notes.
 Git helps track changes in files.
+GitHub is useful for collaboration.
+Branches allow developers to work separately.
